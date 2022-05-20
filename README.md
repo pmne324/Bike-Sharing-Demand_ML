@@ -18,10 +18,10 @@ $ pip install pandas-profiling (optional)</br>
 ## DataSet Description :
 datetime - hourly date + timestamp</br>
 season:</br>
-&emsp1 = spring</br>
-&emsp2 = summer</br>
-&emsp3 = fall</br>
-&emsp4 = winter</br> 
+&nbsp1 = spring</br>
+&bnsp2 = summer</br>
+&bnsp3 = fall</br>
+&bnsp4 = winter</br> 
 holiday - whether the day is considered a holiday</br>
 workingday - whether the day is neither a weekend nor holiday</br>
 weather:</br>
