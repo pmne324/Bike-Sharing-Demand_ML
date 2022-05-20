@@ -5,7 +5,9 @@ This notebook contain EDA(Exploratory Data Analysis), Feature Engineering and Ma
 DataSet for train is available in train.csv, for test is available in test.csv and for submission in sampleSubmission.
 ## Requirements:
 Requirement modules are available in requirements.txt and you can install them with :</br>
-$ pip install -r requirements.txt </br>
+<pre>
+pip install -r requirements.txt </br>
+</pre>
 Or you can install requirements with follow commands :</br>
 <pre>
 pip install jupyter</br>
